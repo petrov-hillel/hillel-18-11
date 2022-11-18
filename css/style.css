@@ -10,11 +10,6 @@ body {
     line-height: 1.5;
 }
 
-a {
-    text-decoration: none;
-    color: red;
-}
-
 img {
     max-width: 120%;
     height: auto;
