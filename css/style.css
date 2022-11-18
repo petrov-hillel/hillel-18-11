@@ -14,3 +14,8 @@ img {
     max-width: 120%;
     height: auto;
 }
+
+a {
+    color: red;
+    text-decoration: underline;
+}
